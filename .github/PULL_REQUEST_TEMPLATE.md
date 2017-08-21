@@ -29,7 +29,7 @@
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 - [ ] The commit message follows our guidelines
-- [ ] My code follows the code style of this project.
+- [ ] My code follows the code style of this project. ([Rails Style](https://github.com/bbatsov/rails-style-guide)), ([Golang Style](https://github.com/golang/go/wiki/CodeReviewComments))
 - [ ] My change requires a change to the documentation.
 - [ ] I have updated the documentation accordingly.
 - [ ] Tests for the changes have been added (for bug fixes / features)
